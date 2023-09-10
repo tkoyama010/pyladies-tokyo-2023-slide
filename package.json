@@ -1,0 +1,15 @@
+{
+  "name": "pyladies-tokyo-2022slide",
+  "description": "pyladies-tokyo-2022-slide",
+  "version": "0.0.0",
+  "author": "Tetsuo Koyama <tkoyama010@gmail.com>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "MIT",
+  "private": true
+}
